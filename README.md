@@ -47,9 +47,7 @@
   </div>
 </div>
 
-</br>
 
-</br>
 
 <h3 style="margin-left: 10%; margin-right: 10%; text-align: center;">Special Thanks ❤️</h3>
 
