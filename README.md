@@ -50,9 +50,6 @@
               <a href="https://www.linkedin.com/in/nalin-abrol-aa7211164/" target="_blank" style="display: inline-block; margin-top: 0;margin-bottom:0">
                   <img src="https://i.ibb.co/9ySFB5J/linkedin-logo.png" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle;margin-top: 0;margin-bottom:0">
               </a>
-              <a href="https://scholar.google.com/citations?user=1b4qBFQAAAAJ&hl=en" target="_blank" style="display: inline-block; margin-top: 0;margin-bottom:0">
-                  <img src="https://i.ibb.co/LSZ8sHc/google-scholar-logo.png" alt="Google Scholar" style="width: 20px; height: 20px; vertical-align: middle;margin-top: 0;margin-bottom:0">
-              </a>
           </div>
           <p style="color: grey; font-size: 15px; margin-bottom: 0; margin-top:0">ex Software Engineer - Plivo <a href="https://www.ycombinator.com/companies/plivo" style="color:grey">(YC S21)</a></p>
           <p style="color: grey; font-size: 15px; margin-top: 0;margin-bottom:0">Published in OHBM 2019<a href="" style="color:grey">↗</a></p>
