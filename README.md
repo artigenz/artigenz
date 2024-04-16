@@ -118,7 +118,7 @@
 <div style="margin-left: 5; margin-right: 5%; text-align: center;">
     <h2>Special Thanks to the Open Source Community ❤️</h2>
     <p>We extend our deepest gratitude to the open source community, especially the Bigcode Project, Magicoder, Hugging Face, DeepSeek, Wizard Coder, Code Llama that enabled research community to build powerfull LLMs.
-    <p>We need many more open source projects to close the gap between proprietry and open source models and we are commited to contribute to the effort by releasing more models and scripts.
+    <p>We need many more people to close the gap between proprietry and open source models and we are commited to contribute our bits to the goal.
 </div>
 
 <div style="margin-left: 5; margin-right: 5%; text-align: center;">
