@@ -2,14 +2,14 @@
     <h1>Artigenz-Coder-DS-6.7B</h1>
     <p>Artigenz team intends to create family of code generation models that can run very fast on local computers.</p>
     <p>Artigenz-Coder-DS-6.7B is the first in this family with 6.7B parameters and <strong>13GB</strong> memory footprint 🌟</p>
-    <a href="[https://artigenz.github.io/artigenz/](https://huggingface.co/Artigenz/Artigenz-Coder-DS-6.7B)">HuggingFace</a>
+    <a href="https://huggingface.co/Artigenz/Artigenz-Coder-DS-6.7B">HuggingFace</a>
 </div>
 
 <div style="margin-left: 5; margin-right: 5%; text-align: center;">
 
 <h2 style="margin-left: 5; margin-right: 5%; text-align: center;margin-top:40px">About the model</h2>
 <p>Artigenz-Coder-DS-6.7B was finetuned on DeepSeek-Coder-6.7B-Base. The dataset and scripts will be open-sourced soon.</p>
-<p>We have open sourced our model weights on 🤗 HF, checkout <a href="https://huggingface.co/Artigenz/Artigenz-Coder-DS-6.7B">here<a>!</p>
+<p>We have open sourced our model weights on 🤗 HF, checkout <a href="https://huggingface.co/Artigenz/Artigenz-Coder-DS-6.7B">here</a>!</p>
 </div>
 
 
