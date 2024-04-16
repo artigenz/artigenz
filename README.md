@@ -56,11 +56,9 @@
           <p style="color: grey; font-size: 15px; margin-top: 0">IIIT - Hyderabad, India</p>
     </div>
 </div>
-</br>
 
-</br>
 
-<h3 style="margin-left: 13%; margin-right: 13%; text-align: center;">Special Thanks ❤️</h3>
+<h3 style="margin-left: 13%; margin-right: 13%;margin-top:20px text-align: center;">Special Thanks ❤️</h3>
 
 <div style="display: flex; justify-content: space-around; align-items: center; margin-left: 15%; margin-right: 15%;">
     <div style="display: flex;flex-direction:column;text-align: center;justify-content: space-around; align-items: center;">
